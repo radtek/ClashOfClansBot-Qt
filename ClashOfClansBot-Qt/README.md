@@ -1,1 +1,0 @@
-﻿# Clash of Clans Bot 
