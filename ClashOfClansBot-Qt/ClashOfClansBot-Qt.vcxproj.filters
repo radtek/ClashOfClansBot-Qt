@@ -5,6 +5,9 @@
     <ClCompile Include="ClashOfClansBot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="scrcpy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Resource Files">
@@ -42,5 +45,10 @@
     <QtRcc Include="ClashOfClansBot.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="scrcpy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
